@@ -9,8 +9,6 @@ This project is an **Oracle SQL-based inventory management system** that keeps t
 - ✅ **Automatically logs transaction status** in the `DAILYRUNshutinghsu` table
 - ✅ **Uses PL/SQL to handle stock updates dynamically**
 
----
-
 ## 🛠️ Database Structure
 
 ### **Tables**
@@ -31,8 +29,6 @@ This project is an **Oracle SQL-based inventory management system** that keeps t
 | `amount` | `NUMBER(4)` | Quantity change amount |
 | `whendate` | `DATE` | Transaction date |
 | `status` | `VARCHAR2(50)` | Status message |
-
----
 
 ## 📌 Actions & Behavior
 
